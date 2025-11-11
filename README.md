@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/m-h-martins/m-h-martins/blob/main/assets/Banner%20Murilo%20Humberto.png?raw=true" width="800">
+  <img src="https://github.com/m-h-martins/m-h-martins/blob/main/assets/banner.png?raw=true" width="800">
 </p>
 
 <h1 align="center">Olá! Eu sou o Murilo Humberto 👋</h1>
