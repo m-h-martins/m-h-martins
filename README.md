@@ -39,7 +39,7 @@
 | 🐍 **[Sistema Bancário em Python](https://github.com/m-h-martins/Sistema-bancario-em-Python)** | Desenvolvimento de um sistema bancário simples para praticar lógica, funções e manipulação de dados no terminal. | Python • Lógica de Programação | 🔗 Acessar Repositório |
 | 🤖 **[Criando Copilots com Microsoft Copilot Studio](https://github.com/m-h-martins/Criando-coplitos-utilizando-o-Microsoft-Copilot)** | Criação de assistentes inteligentes personalizados usando fluxos, automações e interface conversacional. | Power Platform • Copilot Studio • Automação | 🔗 Acessar Repositório |
 | 🧠 **[Análise de Sentimentos com Azure AI Language Studio](https://github.com/m-h-martins/-Analise-de-Sentimentos-com-Language-Studio-no-Azure-AI)** | Aplicação de análise de sentimentos em textos usando IA da Azure para detectar emoções e categorias. | Azure AI • NLP • Análise de Sentimentos | 🔗 Acessar Repositório |
-
+| 🐍 **[Repositório de Exercícios resolvidos em Python](https://github.com/m-h-martins/Curso-em-video---Python-Exercicios-Resolvidos-.git)** | O objetivo deste repositório é praticar a linguagem Python, reforçar a lógica de programação e documentar minha evolução durante o aprendizado. | Python • Lógica de Programação | 🔗 Acessar Repositório |
 ---
 
 ### 🌍 Conecte-se comigo
